@@ -10,6 +10,10 @@ console.log("唐炎")
 console.log("不悔")
 console.log("封魔巅")
 console.log("乱古")
+console.log("乱古")
+console.log("乱古")
+console.log("乱古")
+console.log("乱古")
 
 
 
