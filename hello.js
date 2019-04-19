@@ -1,0 +1,1 @@
+console.log("任天葬")
