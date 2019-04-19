@@ -18,6 +18,9 @@ console.log("乱古")
 console.log("纸鹤")
 console.log("不死树战今生")
 console.log("master")
+console.log("紫斗")
+console.log("联谊总")
+console.log("宁凡")
 
 
 
